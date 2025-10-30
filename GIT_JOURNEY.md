@@ -3,7 +3,7 @@
 ## Student Information
 - Name: BILLAKURTI VENKATA SURYANARAYANA
 - Student ID: 23MH1A4409
-- Repository: [YOUR REPO URL]
+- Repository: https://github.com/surya-4409/git-solved-23MH1A4409.git
 - Date Started: 30-10-2025
 - Date Completed: 30-10-2025
 
