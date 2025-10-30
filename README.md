@@ -15,7 +15,7 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ## New Features (In Development)
 - 🚀 Kubernetes orchestration support
-- 🔄 Advanced blue-green deployment
+- 🔄 Advanced blue-green deployment 
 - 📊 Enhanced monitoring dashboard
 - 🔐 OAuth2 authentication
 - 🐳 Docker Compose integration
